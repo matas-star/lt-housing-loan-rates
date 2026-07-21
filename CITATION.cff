@@ -9,6 +9,10 @@ authors:
     given-names: Matas
 repository-code: "https://github.com/matas-star/lt-housing-loan-rates"
 url: "https://bustoduomenys.lt/en/mortgage-rates/"
+identifiers:
+  - type: swh
+    value: "swh:1:snp:eb76557f93a32b98647998f707260d54ac5de7e1"
+    description: "Software Heritage snapshot of the public data repository"
 preferred-citation:
   type: data
   title: "Lithuania housing-loan interest rates: normalized monthly series"
