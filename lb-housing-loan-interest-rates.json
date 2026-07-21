@@ -1,0 +1,705 @@
+{
+  "api_version": "1.0",
+  "dataset_id": "lt-bank-new-housing-loan-interest-rate",
+  "title": "Lietuvos banko naujų paskolų būstui įsigyti vidutinė palūkanų norma",
+  "description": "Lietuvos PFĮ euro zonos namų ūkių naujų paskolų būstui įsigyti susitarimų eurais vidutinė metinė palūkanų norma.",
+  "unit": "percent per annum",
+  "frequency": "monthly",
+  "primary_source": {
+    "name": "Lietuvos bankas",
+    "url": "https://www.lb.lt/lt/paskolu-palukanu-normos"
+  },
+  "source_export": "https://www.lb.lt/lt/m_statistika/t-paskolu-palukanu-normos/?export=xlsx&ff=1&date_interval%5Bfrom%5D=2015-01",
+  "source_code": "PNS.M.A2V.A.C.A.U2.250.200.N.LT.PC___.E.SR",
+  "license": "https://www.lb.lt/lt/informacijos-naudojimo-salygos",
+  "source_updated_at": "2026-06-29 15:00:00",
+  "updated": "2026-05",
+  "observation_count": 137,
+  "data": [
+    {
+      "period": "2015-01",
+      "interest_rate_pct": 1.89,
+      "source_code": "PNS.M.A2V.A.C.A.U2.250.200.N.LT.PC___.E.SR"
+    },
+    {
+      "period": "2015-02",
+      "interest_rate_pct": 1.95,
+      "source_code": "PNS.M.A2V.A.C.A.U2.250.200.N.LT.PC___.E.SR"
+    },
+    {
+      "period": "2015-03",
+      "interest_rate_pct": 1.96,
+      "source_code": "PNS.M.A2V.A.C.A.U2.250.200.N.LT.PC___.E.SR"
+    },
+    {
+      "period": "2015-04",
+      "interest_rate_pct": 1.93,
+      "source_code": "PNS.M.A2V.A.C.A.U2.250.200.N.LT.PC___.E.SR"
+    },
+    {
+      "period": "2015-05",
+      "interest_rate_pct": 1.81,
+      "source_code": "PNS.M.A2V.A.C.A.U2.250.200.N.LT.PC___.E.SR"
+    },
+    {
+      "period": "2015-06",
+      "interest_rate_pct": 1.83,
+      "source_code": "PNS.M.A2V.A.C.A.U2.250.200.N.LT.PC___.E.SR"
+    },
+    {
+      "period": "2015-07",
+      "interest_rate_pct": 1.68,
+      "source_code": "PNS.M.A2V.A.C.A.U2.250.200.N.LT.PC___.E.SR"
+    },
+    {
+      "period": "2015-08",
+      "interest_rate_pct": 1.8,
+      "source_code": "PNS.M.A2V.A.C.A.U2.250.200.N.LT.PC___.E.SR"
+    },
+    {
+      "period": "2015-09",
+      "interest_rate_pct": 1.93,
+      "source_code": "PNS.M.A2V.A.C.A.U2.250.200.N.LT.PC___.E.SR"
+    },
+    {
+      "period": "2015-10",
+      "interest_rate_pct": 1.89,
+      "source_code": "PNS.M.A2V.A.C.A.U2.250.200.N.LT.PC___.E.SR"
+    },
+    {
+      "period": "2015-11",
+      "interest_rate_pct": 1.95,
+      "source_code": "PNS.M.A2V.A.C.A.U2.250.200.N.LT.PC___.E.SR"
+    },
+    {
+      "period": "2015-12",
+      "interest_rate_pct": 1.92,
+      "source_code": "PNS.M.A2V.A.C.A.U2.250.200.N.LT.PC___.E.SR"
+    },
+    {
+      "period": "2016-01",
+      "interest_rate_pct": 1.89,
+      "source_code": "PNS.M.A2V.A.C.A.U2.250.200.N.LT.PC___.E.SR"
+    },
+    {
+      "period": "2016-02",
+      "interest_rate_pct": 1.89,
+      "source_code": "PNS.M.A2V.A.C.A.U2.250.200.N.LT.PC___.E.SR"
+    },
+    {
+      "period": "2016-03",
+      "interest_rate_pct": 1.96,
+      "source_code": "PNS.M.A2V.A.C.A.U2.250.200.N.LT.PC___.E.SR"
+    },
+    {
+      "period": "2016-04",
+      "interest_rate_pct": 1.99,
+      "source_code": "PNS.M.A2V.A.C.A.U2.250.200.N.LT.PC___.E.SR"
+    },
+    {
+      "period": "2016-05",
+      "interest_rate_pct": 1.92,
+      "source_code": "PNS.M.A2V.A.C.A.U2.250.200.N.LT.PC___.E.SR"
+    },
+    {
+      "period": "2016-06",
+      "interest_rate_pct": 1.97,
+      "source_code": "PNS.M.A2V.A.C.A.U2.250.200.N.LT.PC___.E.SR"
+    },
+    {
+      "period": "2016-07",
+      "interest_rate_pct": 1.97,
+      "source_code": "PNS.M.A2V.A.C.A.U2.250.200.N.LT.PC___.E.SR"
+    },
+    {
+      "period": "2016-08",
+      "interest_rate_pct": 2.0,
+      "source_code": "PNS.M.A2V.A.C.A.U2.250.200.N.LT.PC___.E.SR"
+    },
+    {
+      "period": "2016-09",
+      "interest_rate_pct": 1.96,
+      "source_code": "PNS.M.A2V.A.C.A.U2.250.200.N.LT.PC___.E.SR"
+    },
+    {
+      "period": "2016-10",
+      "interest_rate_pct": 2.02,
+      "source_code": "PNS.M.A2V.A.C.A.U2.250.200.N.LT.PC___.E.SR"
+    },
+    {
+      "period": "2016-11",
+      "interest_rate_pct": 1.93,
+      "source_code": "PNS.M.A2V.A.C.A.U2.250.200.N.LT.PC___.E.SR"
+    },
+    {
+      "period": "2016-12",
+      "interest_rate_pct": 1.93,
+      "source_code": "PNS.M.A2V.A.C.A.U2.250.200.N.LT.PC___.E.SR"
+    },
+    {
+      "period": "2017-01",
+      "interest_rate_pct": 1.94,
+      "source_code": "PNS.M.A2V.A.C.A.U2.250.200.N.LT.PC___.E.SR"
+    },
+    {
+      "period": "2017-02",
+      "interest_rate_pct": 1.94,
+      "source_code": "PNS.M.A2V.A.C.A.U2.250.200.N.LT.PC___.E.SR"
+    },
+    {
+      "period": "2017-03",
+      "interest_rate_pct": 2.01,
+      "source_code": "PNS.M.A2V.A.C.A.U2.250.200.N.LT.PC___.E.SR"
+    },
+    {
+      "period": "2017-04",
+      "interest_rate_pct": 2.05,
+      "source_code": "PNS.M.A2V.A.C.A.U2.250.200.N.LT.PC___.E.SR"
+    },
+    {
+      "period": "2017-05",
+      "interest_rate_pct": 2.05,
+      "source_code": "PNS.M.A2V.A.C.A.U2.250.200.N.LT.PC___.E.SR"
+    },
+    {
+      "period": "2017-06",
+      "interest_rate_pct": 2.01,
+      "source_code": "PNS.M.A2V.A.C.A.U2.250.200.N.LT.PC___.E.SR"
+    },
+    {
+      "period": "2017-07",
+      "interest_rate_pct": 2.02,
+      "source_code": "PNS.M.A2V.A.C.A.U2.250.200.N.LT.PC___.E.SR"
+    },
+    {
+      "period": "2017-08",
+      "interest_rate_pct": 2.01,
+      "source_code": "PNS.M.A2V.A.C.A.U2.250.200.N.LT.PC___.E.SR"
+    },
+    {
+      "period": "2017-09",
+      "interest_rate_pct": 2.05,
+      "source_code": "PNS.M.A2V.A.C.A.U2.250.200.N.LT.PC___.E.SR"
+    },
+    {
+      "period": "2017-10",
+      "interest_rate_pct": 1.99,
+      "source_code": "PNS.M.A2V.A.C.A.U2.250.200.N.LT.PC___.E.SR"
+    },
+    {
+      "period": "2017-11",
+      "interest_rate_pct": 2.04,
+      "source_code": "PNS.M.A2V.A.C.A.U2.250.200.N.LT.PC___.E.SR"
+    },
+    {
+      "period": "2017-12",
+      "interest_rate_pct": 2.05,
+      "source_code": "PNS.M.A2V.A.C.A.U2.250.200.N.LT.PC___.E.SR"
+    },
+    {
+      "period": "2018-01",
+      "interest_rate_pct": 2.09,
+      "source_code": "PNS.M.A2V.A.C.A.U2.250.200.N.LT.PC___.E.SR"
+    },
+    {
+      "period": "2018-02",
+      "interest_rate_pct": 2.12,
+      "source_code": "PNS.M.A2V.A.C.A.U2.250.200.N.LT.PC___.E.SR"
+    },
+    {
+      "period": "2018-03",
+      "interest_rate_pct": 2.16,
+      "source_code": "PNS.M.A2V.A.C.A.U2.250.200.N.LT.PC___.E.SR"
+    },
+    {
+      "period": "2018-04",
+      "interest_rate_pct": 2.21,
+      "source_code": "PNS.M.A2V.A.C.A.U2.250.200.N.LT.PC___.E.SR"
+    },
+    {
+      "period": "2018-05",
+      "interest_rate_pct": 2.18,
+      "source_code": "PNS.M.A2V.A.C.A.U2.250.200.N.LT.PC___.E.SR"
+    },
+    {
+      "period": "2018-06",
+      "interest_rate_pct": 2.22,
+      "source_code": "PNS.M.A2V.A.C.A.U2.250.200.N.LT.PC___.E.SR"
+    },
+    {
+      "period": "2018-07",
+      "interest_rate_pct": 2.27,
+      "source_code": "PNS.M.A2V.A.C.A.U2.250.200.N.LT.PC___.E.SR"
+    },
+    {
+      "period": "2018-08",
+      "interest_rate_pct": 2.27,
+      "source_code": "PNS.M.A2V.A.C.A.U2.250.200.N.LT.PC___.E.SR"
+    },
+    {
+      "period": "2018-09",
+      "interest_rate_pct": 2.3,
+      "source_code": "PNS.M.A2V.A.C.A.U2.250.200.N.LT.PC___.E.SR"
+    },
+    {
+      "period": "2018-10",
+      "interest_rate_pct": 2.24,
+      "source_code": "PNS.M.A2V.A.C.A.U2.250.200.N.LT.PC___.E.SR"
+    },
+    {
+      "period": "2018-11",
+      "interest_rate_pct": 2.3,
+      "source_code": "PNS.M.A2V.A.C.A.U2.250.200.N.LT.PC___.E.SR"
+    },
+    {
+      "period": "2018-12",
+      "interest_rate_pct": 2.21,
+      "source_code": "PNS.M.A2V.A.C.A.U2.250.200.N.LT.PC___.E.SR"
+    },
+    {
+      "period": "2019-01",
+      "interest_rate_pct": 2.25,
+      "source_code": "PNS.M.A2V.A.C.A.U2.250.200.N.LT.PC___.E.SR"
+    },
+    {
+      "period": "2019-02",
+      "interest_rate_pct": 2.3,
+      "source_code": "PNS.M.A2V.A.C.A.U2.250.200.N.LT.PC___.E.SR"
+    },
+    {
+      "period": "2019-03",
+      "interest_rate_pct": 2.37,
+      "source_code": "PNS.M.A2V.A.C.A.U2.250.200.N.LT.PC___.E.SR"
+    },
+    {
+      "period": "2019-04",
+      "interest_rate_pct": 2.42,
+      "source_code": "PNS.M.A2V.A.C.A.U2.250.200.N.LT.PC___.E.SR"
+    },
+    {
+      "period": "2019-05",
+      "interest_rate_pct": 2.39,
+      "source_code": "PNS.M.A2V.A.C.A.U2.250.200.N.LT.PC___.E.SR"
+    },
+    {
+      "period": "2019-06",
+      "interest_rate_pct": 2.4,
+      "source_code": "PNS.M.A2V.A.C.A.U2.250.200.N.LT.PC___.E.SR"
+    },
+    {
+      "period": "2019-07",
+      "interest_rate_pct": 2.41,
+      "source_code": "PNS.M.A2V.A.C.A.U2.250.200.N.LT.PC___.E.SR"
+    },
+    {
+      "period": "2019-08",
+      "interest_rate_pct": 2.4,
+      "source_code": "PNS.M.A2V.A.C.A.U2.250.200.N.LT.PC___.E.SR"
+    },
+    {
+      "period": "2019-09",
+      "interest_rate_pct": 2.39,
+      "source_code": "PNS.M.A2V.A.C.A.U2.250.200.N.LT.PC___.E.SR"
+    },
+    {
+      "period": "2019-10",
+      "interest_rate_pct": 2.37,
+      "source_code": "PNS.M.A2V.A.C.A.U2.250.200.N.LT.PC___.E.SR"
+    },
+    {
+      "period": "2019-11",
+      "interest_rate_pct": 2.37,
+      "source_code": "PNS.M.A2V.A.C.A.U2.250.200.N.LT.PC___.E.SR"
+    },
+    {
+      "period": "2019-12",
+      "interest_rate_pct": 2.34,
+      "source_code": "PNS.M.A2V.A.C.A.U2.250.200.N.LT.PC___.E.SR"
+    },
+    {
+      "period": "2020-01",
+      "interest_rate_pct": 2.36,
+      "source_code": "PNS.M.A2V.A.C.A.U2.250.200.N.LT.PC___.E.SR"
+    },
+    {
+      "period": "2020-02",
+      "interest_rate_pct": 2.38,
+      "source_code": "PNS.M.A2V.A.C.A.U2.250.200.N.LT.PC___.E.SR"
+    },
+    {
+      "period": "2020-03",
+      "interest_rate_pct": 2.31,
+      "source_code": "PNS.M.A2V.A.C.A.U2.250.200.N.LT.PC___.E.SR"
+    },
+    {
+      "period": "2020-04",
+      "interest_rate_pct": 2.3,
+      "source_code": "PNS.M.A2V.A.C.A.U2.250.200.N.LT.PC___.E.SR"
+    },
+    {
+      "period": "2020-05",
+      "interest_rate_pct": 2.4,
+      "source_code": "PNS.M.A2V.A.C.A.U2.250.200.N.LT.PC___.E.SR"
+    },
+    {
+      "period": "2020-06",
+      "interest_rate_pct": 2.41,
+      "source_code": "PNS.M.A2V.A.C.A.U2.250.200.N.LT.PC___.E.SR"
+    },
+    {
+      "period": "2020-07",
+      "interest_rate_pct": 2.4,
+      "source_code": "PNS.M.A2V.A.C.A.U2.250.200.N.LT.PC___.E.SR"
+    },
+    {
+      "period": "2020-08",
+      "interest_rate_pct": 2.32,
+      "source_code": "PNS.M.A2V.A.C.A.U2.250.200.N.LT.PC___.E.SR"
+    },
+    {
+      "period": "2020-09",
+      "interest_rate_pct": 2.33,
+      "source_code": "PNS.M.A2V.A.C.A.U2.250.200.N.LT.PC___.E.SR"
+    },
+    {
+      "period": "2020-10",
+      "interest_rate_pct": 2.28,
+      "source_code": "PNS.M.A2V.A.C.A.U2.250.200.N.LT.PC___.E.SR"
+    },
+    {
+      "period": "2020-11",
+      "interest_rate_pct": 2.26,
+      "source_code": "PNS.M.A2V.A.C.A.U2.250.200.N.LT.PC___.E.SR"
+    },
+    {
+      "period": "2020-12",
+      "interest_rate_pct": 2.21,
+      "source_code": "PNS.M.A2V.A.C.A.U2.250.200.N.LT.PC___.E.SR"
+    },
+    {
+      "period": "2021-01",
+      "interest_rate_pct": 2.2,
+      "source_code": "PNS.M.A2V.A.C.A.U2.250.200.N.LT.PC___.E.SR"
+    },
+    {
+      "period": "2021-02",
+      "interest_rate_pct": 2.25,
+      "source_code": "PNS.M.A2V.A.C.A.U2.250.200.N.LT.PC___.E.SR"
+    },
+    {
+      "period": "2021-03",
+      "interest_rate_pct": 2.19,
+      "source_code": "PNS.M.A2V.A.C.A.U2.250.200.N.LT.PC___.E.SR"
+    },
+    {
+      "period": "2021-04",
+      "interest_rate_pct": 2.18,
+      "source_code": "PNS.M.A2V.A.C.A.U2.250.200.N.LT.PC___.E.SR"
+    },
+    {
+      "period": "2021-05",
+      "interest_rate_pct": 2.2,
+      "source_code": "PNS.M.A2V.A.C.A.U2.250.200.N.LT.PC___.E.SR"
+    },
+    {
+      "period": "2021-06",
+      "interest_rate_pct": 2.21,
+      "source_code": "PNS.M.A2V.A.C.A.U2.250.200.N.LT.PC___.E.SR"
+    },
+    {
+      "period": "2021-07",
+      "interest_rate_pct": 2.18,
+      "source_code": "PNS.M.A2V.A.C.A.U2.250.200.N.LT.PC___.E.SR"
+    },
+    {
+      "period": "2021-08",
+      "interest_rate_pct": 2.15,
+      "source_code": "PNS.M.A2V.A.C.A.U2.250.200.N.LT.PC___.E.SR"
+    },
+    {
+      "period": "2021-09",
+      "interest_rate_pct": 2.13,
+      "source_code": "PNS.M.A2V.A.C.A.U2.250.200.N.LT.PC___.E.SR"
+    },
+    {
+      "period": "2021-10",
+      "interest_rate_pct": 2.08,
+      "source_code": "PNS.M.A2V.A.C.A.U2.250.200.N.LT.PC___.E.SR"
+    },
+    {
+      "period": "2021-11",
+      "interest_rate_pct": 2.06,
+      "source_code": "PNS.M.A2V.A.C.A.U2.250.200.N.LT.PC___.E.SR"
+    },
+    {
+      "period": "2021-12",
+      "interest_rate_pct": 2.04,
+      "source_code": "PNS.M.A2V.A.C.A.U2.250.200.N.LT.PC___.E.SR"
+    },
+    {
+      "period": "2022-01",
+      "interest_rate_pct": 2.05,
+      "source_code": "PNS.M.A2V.A.C.A.U2.250.200.N.LT.PC___.E.SR"
+    },
+    {
+      "period": "2022-02",
+      "interest_rate_pct": 2.04,
+      "source_code": "PNS.M.A2V.A.C.A.U2.250.200.N.LT.PC___.E.SR"
+    },
+    {
+      "period": "2022-03",
+      "interest_rate_pct": 2.02,
+      "source_code": "PNS.M.A2V.A.C.A.U2.250.200.N.LT.PC___.E.SR"
+    },
+    {
+      "period": "2022-04",
+      "interest_rate_pct": 2.05,
+      "source_code": "PNS.M.A2V.A.C.A.U2.250.200.N.LT.PC___.E.SR"
+    },
+    {
+      "period": "2022-05",
+      "interest_rate_pct": 2.06,
+      "source_code": "PNS.M.A2V.A.C.A.U2.250.200.N.LT.PC___.E.SR"
+    },
+    {
+      "period": "2022-06",
+      "interest_rate_pct": 2.17,
+      "source_code": "PNS.M.A2V.A.C.A.U2.250.200.N.LT.PC___.E.SR"
+    },
+    {
+      "period": "2022-07",
+      "interest_rate_pct": 2.46,
+      "source_code": "PNS.M.A2V.A.C.A.U2.250.200.N.LT.PC___.E.SR"
+    },
+    {
+      "period": "2022-08",
+      "interest_rate_pct": 2.74,
+      "source_code": "PNS.M.A2V.A.C.A.U2.250.200.N.LT.PC___.E.SR"
+    },
+    {
+      "period": "2022-09",
+      "interest_rate_pct": 3.46,
+      "source_code": "PNS.M.A2V.A.C.A.U2.250.200.N.LT.PC___.E.SR"
+    },
+    {
+      "period": "2022-10",
+      "interest_rate_pct": 3.84,
+      "source_code": "PNS.M.A2V.A.C.A.U2.250.200.N.LT.PC___.E.SR"
+    },
+    {
+      "period": "2022-11",
+      "interest_rate_pct": 4.09,
+      "source_code": "PNS.M.A2V.A.C.A.U2.250.200.N.LT.PC___.E.SR"
+    },
+    {
+      "period": "2022-12",
+      "interest_rate_pct": 4.34,
+      "source_code": "PNS.M.A2V.A.C.A.U2.250.200.N.LT.PC___.E.SR"
+    },
+    {
+      "period": "2023-01",
+      "interest_rate_pct": 4.6,
+      "source_code": "PNS.M.A2V.A.C.A.U2.250.200.N.LT.PC___.E.SR"
+    },
+    {
+      "period": "2023-02",
+      "interest_rate_pct": 4.87,
+      "source_code": "PNS.M.A2V.A.C.A.U2.250.200.N.LT.PC___.E.SR"
+    },
+    {
+      "period": "2023-03",
+      "interest_rate_pct": 5.03,
+      "source_code": "PNS.M.A2V.A.C.A.U2.250.200.N.LT.PC___.E.SR"
+    },
+    {
+      "period": "2023-04",
+      "interest_rate_pct": 5.28,
+      "source_code": "PNS.M.A2V.A.C.A.U2.250.200.N.LT.PC___.E.SR"
+    },
+    {
+      "period": "2023-05",
+      "interest_rate_pct": 5.39,
+      "source_code": "PNS.M.A2V.A.C.A.U2.250.200.N.LT.PC___.E.SR"
+    },
+    {
+      "period": "2023-06",
+      "interest_rate_pct": 5.58,
+      "source_code": "PNS.M.A2V.A.C.A.U2.250.200.N.LT.PC___.E.SR"
+    },
+    {
+      "period": "2023-07",
+      "interest_rate_pct": 5.7,
+      "source_code": "PNS.M.A2V.A.C.A.U2.250.200.N.LT.PC___.E.SR"
+    },
+    {
+      "period": "2023-08",
+      "interest_rate_pct": 5.75,
+      "source_code": "PNS.M.A2V.A.C.A.U2.250.200.N.LT.PC___.E.SR"
+    },
+    {
+      "period": "2023-09",
+      "interest_rate_pct": 5.8,
+      "source_code": "PNS.M.A2V.A.C.A.U2.250.200.N.LT.PC___.E.SR"
+    },
+    {
+      "period": "2023-10",
+      "interest_rate_pct": 5.89,
+      "source_code": "PNS.M.A2V.A.C.A.U2.250.200.N.LT.PC___.E.SR"
+    },
+    {
+      "period": "2023-11",
+      "interest_rate_pct": 5.85,
+      "source_code": "PNS.M.A2V.A.C.A.U2.250.200.N.LT.PC___.E.SR"
+    },
+    {
+      "period": "2023-12",
+      "interest_rate_pct": 5.63,
+      "source_code": "PNS.M.A2V.A.C.A.U2.250.200.N.LT.PC___.E.SR"
+    },
+    {
+      "period": "2024-01",
+      "interest_rate_pct": 5.71,
+      "source_code": "PNS.M.A2V.A.C.A.U2.250.200.N.LT.PC___.E.SR"
+    },
+    {
+      "period": "2024-02",
+      "interest_rate_pct": 5.73,
+      "source_code": "PNS.M.A2V.A.C.A.U2.250.200.N.LT.PC___.E.SR"
+    },
+    {
+      "period": "2024-03",
+      "interest_rate_pct": 5.68,
+      "source_code": "PNS.M.A2V.A.C.A.U2.250.200.N.LT.PC___.E.SR"
+    },
+    {
+      "period": "2024-04",
+      "interest_rate_pct": 5.58,
+      "source_code": "PNS.M.A2V.A.C.A.U2.250.200.N.LT.PC___.E.SR"
+    },
+    {
+      "period": "2024-05",
+      "interest_rate_pct": 5.5,
+      "source_code": "PNS.M.A2V.A.C.A.U2.250.200.N.LT.PC___.E.SR"
+    },
+    {
+      "period": "2024-06",
+      "interest_rate_pct": 5.44,
+      "source_code": "PNS.M.A2V.A.C.A.U2.250.200.N.LT.PC___.E.SR"
+    },
+    {
+      "period": "2024-07",
+      "interest_rate_pct": 5.36,
+      "source_code": "PNS.M.A2V.A.C.A.U2.250.200.N.LT.PC___.E.SR"
+    },
+    {
+      "period": "2024-08",
+      "interest_rate_pct": 5.17,
+      "source_code": "PNS.M.A2V.A.C.A.U2.250.200.N.LT.PC___.E.SR"
+    },
+    {
+      "period": "2024-09",
+      "interest_rate_pct": 5.02,
+      "source_code": "PNS.M.A2V.A.C.A.U2.250.200.N.LT.PC___.E.SR"
+    },
+    {
+      "period": "2024-10",
+      "interest_rate_pct": 4.77,
+      "source_code": "PNS.M.A2V.A.C.A.U2.250.200.N.LT.PC___.E.SR"
+    },
+    {
+      "period": "2024-11",
+      "interest_rate_pct": 4.55,
+      "source_code": "PNS.M.A2V.A.C.A.U2.250.200.N.LT.PC___.E.SR"
+    },
+    {
+      "period": "2024-12",
+      "interest_rate_pct": 4.36,
+      "source_code": "PNS.M.A2V.A.C.A.U2.250.200.N.LT.PC___.E.SR"
+    },
+    {
+      "period": "2025-01",
+      "interest_rate_pct": 4.35,
+      "source_code": "PNS.M.A2V.A.C.A.U2.250.200.N.LT.PC___.E.SR"
+    },
+    {
+      "period": "2025-02",
+      "interest_rate_pct": 4.29,
+      "source_code": "PNS.M.A2V.A.C.A.U2.250.200.N.LT.PC___.E.SR"
+    },
+    {
+      "period": "2025-03",
+      "interest_rate_pct": 4.2,
+      "source_code": "PNS.M.A2V.A.C.A.U2.250.200.N.LT.PC___.E.SR"
+    },
+    {
+      "period": "2025-04",
+      "interest_rate_pct": 4.05,
+      "source_code": "PNS.M.A2V.A.C.A.U2.250.200.N.LT.PC___.E.SR"
+    },
+    {
+      "period": "2025-05",
+      "interest_rate_pct": 3.93,
+      "source_code": "PNS.M.A2V.A.C.A.U2.250.200.N.LT.PC___.E.SR"
+    },
+    {
+      "period": "2025-06",
+      "interest_rate_pct": 3.76,
+      "source_code": "PNS.M.A2V.A.C.A.U2.250.200.N.LT.PC___.E.SR"
+    },
+    {
+      "period": "2025-07",
+      "interest_rate_pct": 3.71,
+      "source_code": "PNS.M.A2V.A.C.A.U2.250.200.N.LT.PC___.E.SR"
+    },
+    {
+      "period": "2025-08",
+      "interest_rate_pct": 3.68,
+      "source_code": "PNS.M.A2V.A.C.A.U2.250.200.N.LT.PC___.E.SR"
+    },
+    {
+      "period": "2025-09",
+      "interest_rate_pct": 3.66,
+      "source_code": "PNS.M.A2V.A.C.A.U2.250.200.N.LT.PC___.E.SR"
+    },
+    {
+      "period": "2025-10",
+      "interest_rate_pct": 3.65,
+      "source_code": "PNS.M.A2V.A.C.A.U2.250.200.N.LT.PC___.E.SR"
+    },
+    {
+      "period": "2025-11",
+      "interest_rate_pct": 3.68,
+      "source_code": "PNS.M.A2V.A.C.A.U2.250.200.N.LT.PC___.E.SR"
+    },
+    {
+      "period": "2025-12",
+      "interest_rate_pct": 3.69,
+      "source_code": "PNS.M.A2V.A.C.A.U2.250.200.N.LT.PC___.E.SR"
+    },
+    {
+      "period": "2026-01",
+      "interest_rate_pct": 3.67,
+      "source_code": "PNS.M.A2V.A.C.A.U2.250.200.N.LT.PC___.E.SR"
+    },
+    {
+      "period": "2026-02",
+      "interest_rate_pct": 3.67,
+      "source_code": "PNS.M.A2V.A.C.A.U2.250.200.N.LT.PC___.E.SR"
+    },
+    {
+      "period": "2026-03",
+      "interest_rate_pct": 3.79,
+      "source_code": "PNS.M.A2V.A.C.A.U2.250.200.N.LT.PC___.E.SR"
+    },
+    {
+      "period": "2026-04",
+      "interest_rate_pct": 3.88,
+      "source_code": "PNS.M.A2V.A.C.A.U2.250.200.N.LT.PC___.E.SR"
+    },
+    {
+      "period": "2026-05",
+      "interest_rate_pct": 3.96,
+      "source_code": "PNS.M.A2V.A.C.A.U2.250.200.N.LT.PC___.E.SR"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this normalized dataset, cite this release and the Bank of Lithuania as the primary source."
+title: "Lithuania housing-loan interest rates: normalized monthly series"
+type: dataset
+version: "2026.05"
+date-released: 2026-07-21
+authors:
+  - family-names: Revinskas
+    given-names: Matas
+repository-code: "https://github.com/matas-star/lt-housing-loan-rates"
+url: "https://bustoduomenys.lt/en/mortgage-rates/"
+preferred-citation:
+  type: data
+  title: "Lithuania housing-loan interest rates: normalized monthly series"
+  authors:
+    - family-names: Revinskas
+      given-names: Matas
+  year: 2026
+  version: "2026.05"
+  url: "https://bustoduomenys.lt/en/mortgage-rates/"

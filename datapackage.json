@@ -1,0 +1,37 @@
+{
+  "profile": "tabular-data-package",
+  "name": "lt-housing-loan-interest-rates",
+  "title": "Lithuania housing-loan interest rates",
+  "description": "Normalized monthly Bank of Lithuania average interest rates on new euro-denominated housing-loan agreements for households.",
+  "version": "2026.05",
+  "homepage": "https://bustoduomenys.lt/en/mortgage-rates/",
+  "licenses": [
+    {
+      "name": "Bank of Lithuania information-use terms",
+      "path": "https://www.lb.lt/lt/informacijos-naudojimo-salygos"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Bank of Lithuania lending rates",
+      "path": "https://www.lb.lt/en/lending-rates-1"
+    }
+  ],
+  "resources": [
+    {
+      "name": "monthly-rates",
+      "path": "lb-housing-loan-interest-rates.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "bytes": 7830,
+      "hash": "sha256:eb89e0a4cb2614e3c9f35aa300b6b25ef1807b82db4a97684df5dbdb83fc2910",
+      "schema": {
+        "fields": [
+          {"name": "period", "type": "string", "pattern": "^\\d{4}-\\d{2}$"},
+          {"name": "interest_rate_pct", "type": "number"},
+          {"name": "source_code", "type": "string"}
+        ]
+      }
+    }
+  ]
+}
